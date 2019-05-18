@@ -1,2 +1,2 @@
 # tftp
-Tftp server and client implementation using c++ 
+In this project we impplement the tftp server and client using c++ language.
